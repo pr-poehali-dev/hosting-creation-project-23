@@ -192,6 +192,10 @@
     box-shadow: 0 0 30px rgba(34, 197, 94, 0.2);
   }
 
+  .font-montserrat {
+    font-family: "Montserrat", sans-serif;
+  }
+
   .section-title {
     font-family: "Montserrat", sans-serif;
     font-weight: 800;
